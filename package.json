@@ -38,7 +38,7 @@
     "express": "^4.6",
     "fs.extra": "^1.2",
     "jshint": "^2.4",
-    "karma": "^0.12.2",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^0.1.2",
     "karma-junit-reporter": "^0.2.1",
     "karma-mocha": "^0.1.3",
